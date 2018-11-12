@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "966134805959",
+    "firebase_url": "https://find-taxi-30cfd.firebaseio.com",
+    "project_id": "find-taxi-30cfd",
+    "storage_bucket": "find-taxi-30cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966134805959:android:792a706941ad82cf",
+        "android_client_info": {
+          "package_name": "com.example.thmotaun.find_taxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966134805959-e2138mgjj4ktcsqnfv2tngp23q7svn0q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thmotaun.find_taxi",
+            "certificate_hash": "5218c101cc9a385c7bca035bae8480c9e2ddd048"
+          }
+        },
+        {
+          "client_id": "966134805959-8nep42kru0o0bf4qkv45kkunjso7852t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS69ZIhBMRHHTALQK-tQ39nABrO4gdv8k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966134805959-8nep42kru0o0bf4qkv45kkunjso7852t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
